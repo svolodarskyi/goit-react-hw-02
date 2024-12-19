@@ -43,7 +43,7 @@ const App = () => {
   return (
     <div className="feedback">
       <Description />
-      <Options onFeedbackGiven={updateFeedback} />
+      <Options onFeedbackGiven={updateFeedback} totalFeedback={totalFeedback} />
 
       {totalFeedback ? (
         <Feedback
