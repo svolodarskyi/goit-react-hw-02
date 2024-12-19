@@ -1,0 +1,10 @@
+.feedback {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  color: rgb(59, 59, 59);
+}
+
+.bold {
+  font-weight: 600;
+}

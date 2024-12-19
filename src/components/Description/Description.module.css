@@ -1,0 +1,15 @@
+.title {
+  margin-bottom: 20px;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.subtitle {
+  margin-bottom: 15px;
+}
+
+.iconSip {
+  font-size: 2rem;
+  position: relative;
+  top: 5px;
+}
